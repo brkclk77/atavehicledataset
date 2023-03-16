@@ -3,6 +3,7 @@ This repository has been created to share the dataset used in the related articl
 Dataset link: https://drive.google.com/file/d/1thO8qGfhLAjOSgpvue4mnZSGpQuHXi3S/view?usp=share_link
 
 ZIP PASSWORD IS MANUSCRIPT IDENTIFICATION NUMBER INCLUDING CAPITAL LETTERS AND DASHES. SO THE PASSWORD IS THE IDENTIFICATION NUMBER OF GIVEN BY IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS THE ARTICLE ITSELF.
+
 The dataset contains 11,129 images (57,290 annotated instances) from the study conducted by Song et al. (please check CITATION section) remaining images were acquired from public traffic images. 
 
 
