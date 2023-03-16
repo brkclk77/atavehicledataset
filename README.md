@@ -13,7 +13,7 @@ Author:Burak ÇELİK
 Journal:IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS
 Year:2023
 
-1-Title: Vision-based vehicle detection and counting system using deep learning in highway scenes
+2-Title: Vision-based vehicle detection and counting system using deep learning in highway scenes
 Authors:Huansheng Song, Haoxiang Liang, Huaiyu Li, Zhe Dai & Xu Yun 
 Journal:European Transport Research Review
 Year:2019
