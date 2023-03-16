@@ -4,7 +4,7 @@ Dataset link: https://drive.google.com/file/d/1thO8qGfhLAjOSgpvue4mnZSGpQuHXi3S/
 
 ZIP PASSWORD IS MANUSCRIPT IDENTIFICATION NUMBER INCLUDING CAPITAL LETTERS AND DASHES. SO THE PASSWORD IS THE IDENTIFICATION NUMBER OF GIVEN BY IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS THE ARTICLE ITSELF. PASSWORD WILL BE ADDED TO THIS PAGE FOR PUBLIC USE AFTER THE ARTICLE IS PUBLISHED.
 
-The dataset contains 11,129 images (57,290 annotated instances) from the study conducted by Song et al. (article link: https://link.springer.com/article/10.1186/s12544-019-0390-4) (please check CITATION section) remaining images were acquired from public traffic images. 
+The dataset contains 11,129 images (57,290 annotated instances) from the study conducted by Song et al.  (please check CITATION section) remaining images were acquired from public traffic images. 
 
 
 
@@ -19,3 +19,4 @@ Year:2023
 Authors:Huansheng Song, Haoxiang Liang, Huaiyu Li, Zhe Dai & Xu Yun 
 Journal:European Transport Research Review
 Year:2019
+article link: https://link.springer.com/article/10.1186/s12544-019-0390-4
