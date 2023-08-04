@@ -1,4 +1,4 @@
-# atavehicledataset
+# ATA Vehicle Dataset
 This repository has been created to share the dataset used in the related article (information about the article will be added after the article is published).
 Dataset link: https://drive.google.com/file/d/1thO8qGfhLAjOSgpvue4mnZSGpQuHXi3S/view?usp=share_link
 
