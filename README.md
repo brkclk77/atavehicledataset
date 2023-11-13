@@ -4,7 +4,7 @@ Dataset link: [https://drive.google.com/file/d/1thO8qGfhLAjOSgpvue4mnZSGpQuHXi3S
 
 ZIP PASSWORD IS IN THE COVER LETTER.  PASSWORD WILL BE ADDED TO THIS PAGE FOR PUBLIC USE AFTER THE ARTICLE IS PUBLISHED.
 
-The dataset contains 11,129 images (57,290 annotated instances) from the study conducted by Song et al.  (please check CITATION section) The remaining images were collected by us from public videos.
+The dataset contains 16518 images (140293 annotated instances).11129 of these images (57290 annotated instances) taken from the study conducted by Song et al.  (please check CITATION section) 5389 images were collected by us from public videos.
 
 
 
@@ -12,7 +12,7 @@ CITATION
 
 1-Title: information about the article will be added after the article is published.
 Author:Burak ÇELİK
-Journal:Measurement
+Journal:
 Year:2023
 
 2-Title: Vision-based vehicle detection and counting system using deep learning in highway scenes
