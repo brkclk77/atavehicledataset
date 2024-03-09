@@ -11,7 +11,7 @@ The dataset contains 16518 images (140293 annotated instances).11129 of these im
 CITATION
 
 1-Title: information about the article will be added after the article is published.
-Author:Burak ÇELİK
+Author:
 Journal:
 Year:2023
 
