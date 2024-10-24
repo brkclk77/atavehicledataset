@@ -1,6 +1,6 @@
 # ATA Vehicle Dataset
 This repository has been created to share the dataset used in the related article (information about the article will be added after the article is published).
-Dataset link: [https://drive.google.com/file/d/1thO8qGfhLAjOSgpvue4mnZSGpQuHXi3S/view?usp=share_link](https://drive.google.com/file/d/1U37vrF3_2JI18lL9olxw_ONEaZNOssFD/view?usp=share_link)
+Dataset link: [https://drive.google.com/file/d/1W9n3Fe071ZJrRoy7sgi6FyG1JhAwKIhe/view?usp=sharing)
 
 ZIP PASSWORD IS IN THE COVER LETTER.  PASSWORD WILL BE ADDED TO THIS PAGE FOR PUBLIC USE AFTER THE ARTICLE IS PUBLISHED.
 
