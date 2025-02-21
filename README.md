@@ -2,7 +2,7 @@
 This repository has been created to share the dataset used in the related article (information about the article will be added after the article is published).
 Dataset link: [[https://drive.google.com/file/d/1W9n3Fe071ZJrRoy7sgi6FyG1JhAwKIhe/view?usp=sharing](https://drive.google.com/file/d/15MzGRYVY3E6vxQlVCprvF3uEZb4XrDq6/view?usp=drive_link))
 
-ZIP PASSWORD IS IN THE COVER LETTER.  PASSWORD WILL BE ADDED TO THIS PAGE FOR PUBLIC USE AFTER THE ARTICLE IS PUBLISHED.
+Dataset Password: 147258369.Brk
 
 The dataset contains 16518 images (140293 annotated instances).11129 of these images (57290 annotated instances) taken from the study conducted by Song et al.  (please check CITATION section) 5389 images were collected by us from public videos.
 
